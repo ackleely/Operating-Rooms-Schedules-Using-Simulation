@@ -117,3 +117,9 @@ performance under changing demands, techniques like
 dynamic scheduling, emergency ORs, or even more intelligent 
 load distribution may be needed.
 
+## Contributors’ GitHub Profile Links:
+
+- [@alyssanew] (add-your-link)
+- [@jeysiiiiiii] (add-your-link)
+- [@ackleely](https://github.com/yourusername)
+
