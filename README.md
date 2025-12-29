@@ -120,6 +120,6 @@ load distribution may be needed.
 ## Contributors’ GitHub Profile Links:
 
 - [@alyssanew] (add-your-link)
-- [@jeysiiiiiii] (add-your-link)
+- [@jeysiiiiiii](https://github.com/jeysiiiiiii)
 - [@ackleely](https://github.com/yourusername)
 
